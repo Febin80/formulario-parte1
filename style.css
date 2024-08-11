@@ -1,0 +1,25 @@
+body{
+    margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: antiquewhite;
+}
+
+.form-container{
+
+  display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color:cornsilk;
+    padding: 50px;
+    border-radius: 10px;
+    max-width: 300px;
+    width: 90% ;
+    box-shadow: 0 0 10px;
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-top: 10%;
+
+
+}
